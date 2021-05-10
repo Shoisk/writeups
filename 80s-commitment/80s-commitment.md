@@ -1,6 +1,6 @@
 # Information
 
-We're presented with a website, and the python running behind it:
+We're presented with a website, the python running behind it, and are asked to rickroll the author:
 
 ![](web.png)
 
@@ -95,7 +95,7 @@ if __name__ == "__main__":
 ```
 
 
-The most important things to realize here, is that the video identifiers are converted to integers in the function `commit_id` and are then encrypted using ElGamal
+The most important things to realize here, is that the video identifiers are converted to integers in the function `commit_id` and are then encrypted using ElGamal.
 
 # On ElGamal
 
